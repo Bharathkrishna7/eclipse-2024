@@ -1,0 +1,18 @@
+package javaPrograms;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class Occurrence {
+
+	public static void main(String[] args) {
+	
+   
+	}
+	
+	public static void getchar(String name) {
+	Map<Character, Integer> cha=new HashMap<Character, Integer>();
+		char[] ch=name.toCharArray();
+	}
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;stepDefinitions.LoginSteps&apos; to &apos;Steps&apos;&#x0D;&#x0A;- Original project: &apos;nopCommerce&apos;&#x0D;&#x0A;- Original element: &apos;stepDefinitions.LoginSteps&apos;&#x0D;&#x0A;- Renamed element: &apos;stepDefinitions.Steps&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LoginSteps&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src\/test\/java&lt;stepDefinitions{LoginSteps.java[LoginSteps" matchStrategy="1" name="Steps" qualified="false" references="true" similarDeclarations="false" stamp="1688146140985" textual="false" version="1.0"/>
+</session>
